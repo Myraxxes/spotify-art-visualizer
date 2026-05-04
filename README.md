@@ -6,9 +6,7 @@ Users can search for a song, select it, and watch its album cover evolve into a 
 
 
 ## Demo
-<video width="500" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+https://www.youtube.com/watch?v=UGnoSnYPFlU
 
 ## Features
 - Search for songs using the Spotify API
